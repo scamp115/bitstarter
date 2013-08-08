@@ -78,3 +78,7 @@ p {
 div.row {
     border: 1px solid;
 }
+div.addthis_toolbox {
+  width:180px;
+  margin: 0 auto;
+ }
